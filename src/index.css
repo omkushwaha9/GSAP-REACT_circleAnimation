@@ -3,15 +3,16 @@
   padding: 0;
   box-sizing: border-box;
   font-family: girlroy;
-  color: white;
+  color: black;
 }
 
 html,
 body {
   height: 100%;
   width: 100%;
+  background-color: black;
 }
-.circle{
+circle{
   height: 300px;
   width: 300px;
   border-radius: 50%;
